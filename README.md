@@ -1,1 +1,1 @@
-# Sentiment-Analysis-Mahcine-Learning-NLP-Project
+# Sentiment-Analysis-Machine-Learning-NLP-Project
